@@ -1,8 +1,10 @@
-theme = "ayu_dark"
+theme = "tokyonight"
 
 [editor]
 line-number = "relative"
 mouse = false
+end-of-line-diagnostics = "hint"
+
 
 [editor.cursor-shape]
 insert = "bar"
