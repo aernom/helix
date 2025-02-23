@@ -1,4 +1,4 @@
-theme = "gruvybox"
+theme = "horizon-dark"
 
 [editor]
 line-number = "relative"
